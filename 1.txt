@@ -69,11 +69,13 @@ cin >> hight;
 }
 }
 
+
 int main()
+
 {
 int variant = 0;//ініціалізація
 int hight = 0;
 Choise(variant, hight);
+<<<<<<< HEAD
 system("pause");
 return 0;
-
